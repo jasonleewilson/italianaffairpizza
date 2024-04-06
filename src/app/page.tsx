@@ -5,9 +5,9 @@ export default function Home() {
     <main className='flex min-h-half flex-col items-center justify-between p-24'>
       <h1>ItalianAffairPizza.com</h1>
 
-      <form
+      {/* <form
         name='contact'
-        action='/success'
+        // action='/success'
         method='post'
         className='mx-auto mb-0 mt-8 max-w-md space-y-4'
         data-netlify='true'
@@ -63,9 +63,9 @@ export default function Home() {
         </div>
 
         <div className='flex items-center justify-between'>
-          {/* <p className='text-sm text-gray-500'>
+          <p className='text-sm text-gray-500'>
             Don't worry we will not spam you :)
-          </p> */}
+          </p>
 
           <button
             type='submit'
@@ -75,7 +75,7 @@ export default function Home() {
             Say Hi
           </button>
         </div>
-      </form>
+      </form> */}
     </main>
   );
 }
