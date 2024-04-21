@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ItalianAffairPizza.com",
+  title: "FOR SALE | ItalianAffairPizza.com",
   description: "FOR SALE | ItalianAffairPizza.com",
 };
 
