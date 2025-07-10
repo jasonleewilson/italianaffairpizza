@@ -1,8 +1,4 @@
 {
   "name": "italianaffairpizza",
-  "compatibility_date": "2025-07-10",
-  "build": {
-    "command": "npm run build"
-  },
-  "pages_build_output_dir": ".vercel/output"
+  "compatibility_date": "2025-07-10"
 }
