@@ -1,0 +1,13 @@
+{
+  "name": "italianaffairpizza",
+  "compatibility_date": "2025-07-10",
+  "build": {
+    "command": "npm run build"
+  },
+  "site": {
+    "bucket": ".vercel/output/static"
+  },
+  "functions": {
+    "directory": ".vercel/output/functions"
+  }
+}
