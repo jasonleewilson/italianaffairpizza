@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <header className='relative flex items-center justify-center h-screen mb-12 overflow-hidden'>
         <div className='relative z-30 p-5 text-2xl text-white bg-gray-500 bg-opacity-50 rounded-xl'>
-          <div className='w-full px-4 py-12 sm:px-6 sm:py-16 lg:w-1/2 lg:px-8 lg:py-24 bg-gray-500 bg-opacity-100'>
+          <div className='w-full px-4 py-12 sm:px-6 sm:py-16 lg:px-8 lg:py-24 bg-gray-500 bg-opacity-100'>
             <div className='mx-auto text-center'>
               <h1 className='text-red-500 bg-white text-2xl font-bold sm:text-3xl mb-4'>
                 ItalianAffairPizza.com
